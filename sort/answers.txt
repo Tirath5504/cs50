@@ -1,0 +1,14 @@
+sort1 uses:
+Bubble
+
+How do you know?: Since time taken for random list (7.862 s) and sorted list (0.770 s) varies greatly and is also quite large. [O(n^2) and omega(n)]
+
+sort2 uses:
+Merge
+
+How do you know?: Since time taken for random list (0.716 s) and sorted list (0.766 s) is almost same and also since it takes the least amount of time. [O(nlogn) and omega(nlogn)]
+
+sort3 uses:
+Selection
+
+How do you know?: Since time taken for random list (3.423 s) and sorted list (3.712 s) is almost same but it is also a significantly larger amount. [O(n^2) and omega(n^2)]
